@@ -1,14 +1,19 @@
-# Aeonics Open
+# AEONICS OPEN-Music
+## RECURSOS MUSICALES: GUITARRA
 
-Ruta de aprendizaje musical y de guitarra basada en recursos gratuitos, criterios pedagógicos y evidencia sobre aprendizaje.
+Aprender guitarra no debería significar buscar cientos de vídeos
+sin saber por dónde empezar.
 
 > **Estado:** investigación / construcción del catálogo
 
 ## Objetivo
 
-Aeonics Open organiza recursos educativos gratuitos que están dispersos entre cursos, sitios educativos, YouTube, GitHub y otras fuentes, convirtiéndolos en rutas de aprendizaje estructuradas.
+Aeonics Open es un proyecto abierto para organizar recursos de
+aprendizaje de guitarra y desarrollar, a partir de ellos, una ruta
+de aprendizaje musical estructurada.
 
-El proyecto no pretende sustituir a profesores ni presentar una única metodología como universal.
+El proyecto no pretende sustituir a profesores ni presentar una
+única metodología como universal.
 
 ## Principios
 
@@ -49,4 +54,5 @@ El proyecto no pretende sustituir a profesores ni presentar una única metodolog
 
 ## Estado
 
-La primera fase consiste en investigar, evaluar y catalogar recursos antes de construir la plataforma web.
+La primera fase consiste en investigar, evaluar y catalogar recursos
+antes de construir la plataforma web.
